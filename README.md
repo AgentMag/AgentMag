@@ -9,5 +9,5 @@ Desarrollador Full-Stack con experiencia en Python, Django, PostgreSQL y JavaScr
 
 
 ## 📫 Contacto
-- [LinkedIn](www.linkedin.com/in/daniel-andre-camacho-rodríguez-4a4818342) · [Computrabajo](https://candidato.ve.computrabajo.com/candidate/cv/edit/) · GitHub: [@AgentMag](link)
+- [LinkedIn](https://www.linkedin.com/in/daniel-andre-camacho-rodr%C3%ADguez-4a4818342/) · [Computrabajo](https://candidato.ve.computrabajo.com/candidate/cv/edit/) · GitHub: [@AgentMag](link)
 
